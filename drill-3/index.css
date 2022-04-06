@@ -1,0 +1,53 @@
+header {
+    background-color: lightgray;
+    height: 10%;
+    padding: 10px;
+}
+
+main {
+    padding: 5%;
+}
+
+.colors {
+    height: 25vh;
+    width: 100%
+}
+
+#blue {
+    background-color: teal;
+}
+
+#teal {
+    background-color: turquoise;
+}
+
+#green {
+    background-color: palegreen
+}
+
+#yellow {
+    background-color: yellow
+}
+
+footer {
+    position:fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    border-radius: 50px;
+    height: 5vh;
+    width: 5vh;
+padding: 6px;
+    
+}
+
+footer > p {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+
